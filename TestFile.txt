@@ -1,6 +1,8 @@
 Este es un archivo de texto plano
 Será nuestro archivo de pruebas para conocer Git
 
-Yo tengo un Apartamento
+Yo tengo una Casa
 Yo quiero una Moto
 Me gusta comer Cerezas
+
+Aqui ocurrió un cambio
